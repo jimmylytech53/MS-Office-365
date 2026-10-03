@@ -11,8 +11,6 @@ The lab demonstrates practical experience with Microsoft Entra ID, Exchange Onli
 
 ## Network & Services Diagram
 
-<img width="1536" height="1024" alt="Microsoft-365-Admin-Network- -Services-Diagram" src="https://github.com/user-attachments/assets/30a54c07-1118-46dc-8790-09192a575e11" />
-
 ---
 
 ## Tasks Completed
